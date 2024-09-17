@@ -9,7 +9,7 @@ import montagne.ihm.Console;
 import montagne.metier.ChaineDeMontagne;
 import montagne.metier.Sommet;
 
-public class MontagneMain {
+public class MontagneMain {  
 
 	public static void main(String[] args) {
 		Collection <Sommet> sommets= new ArrayList<>();
